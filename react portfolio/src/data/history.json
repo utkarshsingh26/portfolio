@@ -1,0 +1,42 @@
+[
+    {
+        "role": "Teaching Assistant",
+        "organization" : "Arizona State University",
+        "startDate": "August 2024",
+        "endDate": "Present",
+        "experience": ["Managed the administration for CSE 578 (Data Visualization), creating and evaluating assignments for 170+ students.", "Crafted assignments using JavaScript and D3.js, building essential skills in Data Visualization."],
+        "image": "history/asu.jpg"
+    },
+    {
+        "role": "AI/ML Developer Intern",
+        "organization" : "Resilience Inc",
+        "startDate": "May 2024",
+        "endDate": "August 2024",
+        "experience": ["Developed and maintained AI systems for the AIMEE mobile app, focusing on correctness, performance.", "Applied techniques such as hyperparameter tuning, SMOTE, and stacking to optimize model accuracy, resulting in significant improvements in predictive performance and data handling.", "Tested UI interfaces rigorously to ensure a seamless user experience, identifying and addressing usability issues that enhanced overall app performance and user satisfaction.", "Conducted research to stay updated with technological advancements and acquire necessary knowledge for assigned tasks, driving innovation and efficiency in AI development."],
+        "image": "history/resilience.jpg"
+    },
+    {
+        "role": "Software Developer",
+        "organization" : "Jio Platforms Ltd",
+        "startDate": "June 2021",
+        "endDate": "February 2023",
+        "experience": ["Aligned with project managers to set and achieve coding goals, enhancing legacy codebases and reducing bug reports by 20%.", "Worked collaboratively across various projects with diverse teams to provide optimal and prompt solutions for end-users, resulting in a 15% increase in overall customer satisfaction.", "Utilized tools such as Node.js, MySQL, and Postman to drive efficient development processes.", "Made use of Tableau and Excel for comprehensive data analysis, resulting in the generation of insightful reports that enhanced understanding of customer needs.", "Collaborated on coding goals with project managers, achieving a 15% bug reduction by translating data insights into actionable strategies for legacy code base enhancement."],
+        "image": "history/jio.jpg"
+    },
+    {
+        "role": "Application Development & Maintenance Intern",
+        "organization" : "Cognizant Technology Solutions",
+        "startDate": "January 2021",
+        "endDate": "May 2021",
+        "experience": ["Promoted to Cohort Leader for outstanding performance as one of the top interns.", "Led a team of 12 interns, achieving 25% higher efficiency compared to other teams, contributing to overall project success.", "Applied a diverse set of technologies, encompassing HTML5, CSS3, JavaScript, Java, and SQL to ensure seamless execution of projects.", "Put in application dynamic data analysis techniques to enhance customer engagement metrics by 10%, delivering actionable insights to optimize product adoption."],
+        "image": "history/cognizant.jpg"
+    },
+    {
+        "role": "Summer Intern",
+        "organization" : "Defence Research & Development Organisation",
+        "startDate": "June 2018",
+        "endDate": "July 2018",
+        "experience": ["Conducted thorough research on emerging trends in data visualization and contributed insights to optimize D3's functionality.", "Collaborated with UX designers to implement visually appealing and intuitive data visualizations, focusing on delivering a seamless end-user experience."],
+        "image": "history/drdo.jpg"
+    }
+]
