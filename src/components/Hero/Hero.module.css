@@ -11,6 +11,17 @@
   margin-right: 10%;
 }
 
+.buttonContainer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contactBtn{
+  text-align: center;
+  margin-right: 10px;
+}
+
 .content {
   display: flex;
   flex-direction: column;
