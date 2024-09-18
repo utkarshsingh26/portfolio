@@ -1,11 +1,13 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 import styles from "./Publications.module.css";
 import publications from "../../data/publications.json";
 import { getImageURL } from "../../utils";
 
 const Publications = () => {
-    console.log(publications)
+
+    const [linkClicked, setLinkClicked] = useState(false);
+
     return (
         <section className={styles.container} id="projects">
           <h2 className={styles.title}>Publications</h2>
