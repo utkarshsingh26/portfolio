@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "A comical rotating man",
+      "imageSrc": "projects/threejs.png",
+      "description": "A silly litte web-app that shows what a rotating bad drawing of a man looks like.",
+      "skills": ["ThreeJS", "HTML", "CSS"],
+      "demo": "https://utkarshsingh26.github.io/Human-Body-Avatar-ThreeJS/",
+      "source": "https://github.com/utkarshsingh26/Human-Body-Avatar-ThreeJS"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Portfolio",
+      "imageSrc": "projects/reactjs.png",
+      "description": "Created to showcase to the world what I can offer.",
+      "skills": ["ReactJS", "HTML", "CSS"],
+      "demo": "https://utkarshsingh26.github.io/portfolio/",
+      "source": "https://github.com/utkarshsingh26/portfolio"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Langchain based book reading AI Chatbot",
+      "imageSrc": "projects/langchain.png",
+      "description": "A chatbot that utilizes Python, Langchain, OpenAI to chat with you about books.",
+      "skills": ["Python", "Langchain", "OpenAI"],
+      "demo": "https://github.com/utkarshsingh26/RAG-and-Langchain-based-AI-Chatbot-for-PDF-docs",
+      "source": "https://github.com/utkarshsingh26/RAG-and-Langchain-based-AI-Chatbot-for-PDF-docs"
     }
   ]
